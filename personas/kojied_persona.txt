@@ -8,7 +8,7 @@ User Persona for kojied
 * **Location:** New York City, based on multiple posts in r/newyorkcity and r/AskNYC.
 * **Occupation:** iOS developer with an interest in spatial computing and visionOS development (r/visionosdev, r/VisionPro).  Also possibly involved in environmental consulting, based on their post in r/ClimateOffensive.  Their financial comfort level suggests a higher-than-average income.
 
-**Interests:**
+**Interests:** 
 
 * **Technology:**  A strong interest in Apple's Vision Pro and visionOS development, evidenced by numerous posts in r/VisionPro and r/visionosdev.  They are actively involved in learning new technologies and exploring their potential applications. (r/visionosdev, r/VisionPro)
 * **Finance & Investing:** Actively involved in stock trading and options trading (r/stocks, r/options, r/wallstreetbets, r/Webull). They show a keen interest in market trends and financial strategies. (r/stocks, r/options, r/wallstreetbets, r/Webull)

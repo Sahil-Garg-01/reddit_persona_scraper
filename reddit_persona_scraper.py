@@ -146,7 +146,7 @@ Summarize 3–5 goals/needs based on activity. Add URLs used to infer each point
 ### DATA
 
 Posts:
-{posts_text}
+{posts_text} 
 
 Comments:
 {comments_text}
