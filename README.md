@@ -14,7 +14,7 @@ This project scrapes a Reddit user's posts and comments, then uses Google's Gemi
 ### 1. Clone the Repository
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/Sahil-Garg-01/reddit_persona_scraper.git
 cd reddit_persona_scraper
 ```
 
