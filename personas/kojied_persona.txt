@@ -1,39 +1,57 @@
 User Persona for kojied
 
-**User Persona: Kojied**
+---
 
-**Demographics:**
+# REDDIT USER PERSONA
 
-* **Age:** Likely 25-35 years old. This is inferred from their comments about experiencing "intern season" in NYC as something disruptive to their usual bar experience (r/newyorkcity),  their nostalgia for coming-of-age movies relevant to Millennials/Gen Z (r/GenZ), and their established career as an iOS developer (r/visionosdev).  Their understanding of  historical context (r/OnePiece) also suggests a level of education and life experience beyond a recent graduate.
-* **Location:** New York City, based on multiple posts in r/newyorkcity and r/AskNYC.
-* **Occupation:** iOS developer with an interest in spatial computing and visionOS development (r/visionosdev, r/VisionPro).  Also possibly involved in environmental consulting, based on their post in r/ClimateOffensive.  Their financial comfort level suggests a higher-than-average income.
+## BASIC INFO
+- Name (Reddit username): kojied
+- Estimated Age: 28-35
+- Occupation: Software Developer (likely iOS, with interest in spatial computing) / Finance (possesses knowledge of options trading and market trends)
+- Relationship Status: Unknown
+- Location: New York City
+- Archetype: The Analyst / The Explorer
+- User Tier: Advanced
 
-**Interests:** 
+## PERSONALITY (scale 1–5, with short justification and post URL for each)
+- Introvert ↔ Extrovert: 3 - Participates in discussions across various subreddits, but also reflects on personal experiences in thoughtful posts.  [r/newyorkcity post](https://www.reddit.com/r/newyorkcity/comments/163t14z/i_feel_violated_by_intern_season/)
+- Intuition ↔ Sensing: 4 -  Shows a strong interest in future technologies (Vision Pro) and theoretical concepts (One Piece theory), while also grounding observations in real-world experiences (NYC nightlife, finance). [r/VisionPro posts](various), [r/OnePiece post](https://www.reddit.com/r/OnePiece/comments/16x746b/theory_what_if_we_live_in_the_void_800_century/)
+- Feeling ↔ Thinking: 3 - Expresses personal feelings and opinions, but also approaches problems with a logical and analytical mindset (e.g., finance, app development). [r/newyorkcity post](https://www.reddit.com/r/newyorkcity/comments/163t14z/i_feel_violated_by_intern_season/), [r/Frugal post](https://www.reddit.com/r/Frugal/comments/16y4g59/how_do_you_decide_what_to_buy_and_not_buy/)
+- Perceiving ↔ Judging: 4 -  Demonstrates a flexible approach, exploring various interests and options (e.g., investing strategies, technology, hobbies), rather than adhering to rigid plans.  [r/stocks posts](various), [r/VisionPro posts](various)
 
-* **Technology:**  A strong interest in Apple's Vision Pro and visionOS development, evidenced by numerous posts in r/VisionPro and r/visionosdev.  They are actively involved in learning new technologies and exploring their potential applications. (r/visionosdev, r/VisionPro)
-* **Finance & Investing:** Actively involved in stock trading and options trading (r/stocks, r/options, r/wallstreetbets, r/Webull). They show a keen interest in market trends and financial strategies. (r/stocks, r/options, r/wallstreetbets, r/Webull)
-* **Gaming:** Plays *Manor Lords* and *Project Zomboid* (r/ManorLords, r/projectzomboid). Their comments indicate a strategic and analytical approach to gameplay. (r/ManorLords)
-* **NYC Culture:**  Frequents various bars and restaurants in NYC (r/newyorkcity, r/FoodNYC), demonstrating an appreciation for the city's nightlife and culinary scene. (r/newyorkcity, r/FoodNYC)
-* **Anime and Manga:**  Shows an interest in *One Piece* (r/OnePiece), particularly its narrative and cultural references. (r/OnePiece)
-* **Environmentalism:**  Concerned about climate change and interested in exploring new approaches to promote sustainable practices (r/ClimateOffensive). (r/ClimateOffensive)
-* **Plants:** Has experience (and struggles) with houseplant care (r/plantclinic). (r/plantclinic)
-
-
-**Personality Traits:**
-
-* **Analytical & Strategic:**  Their posts and comments in various subreddits, particularly those related to finance, gaming, and technology, showcase a logical and analytical mindset. (r/ManorLords, r/stocks, r/options, r/ClimateOffensive, r/Frugal)
-* **Curious & Inquisitive:** Constantly seeks information and knowledge on various topics, actively participating in discussions and asking questions. (r/AskReddit, r/VisionPro, r/visionosdev)
-* **Tech-Savvy & Future-Oriented:**  Excited about new technologies and their implications for the future. (r/VisionPro, r/visionosdev)
-* **Pragmatic & Results-Oriented:** Focused on achieving tangible results in their investments and projects.  (r/stocks, r/options, r/wallstreetbets, r/visionosdev)
-* **Observant:** Demonstrates a capacity for detailed observation and analysis, as evident in their posts about NYC nightlife and their One Piece theories. (r/newyorkcity, r/OnePiece)
-* **Self-Aware:** Reflects on their own experiences and biases, as seen in their post about feeling violated by intern season in NYC. (r/newyorkcity)
+## MOTIVATIONS (scale 1–5, with citation)
+- Convenience: 4 -  Expressed desire for convenient tools and workflows (AVP integration with ChatGPT, easier trading). [r/VisionPro posts](various), [r/Webull post]
+- Wellness: 2 - Mentions self-care in passing but isn't a primary focus. [r/AskReddit comment]
+- Speed: 3 -  Concerns about slow transfer times in Webull and latency issues with Vision Pro suggest a desire for efficiency. [r/Webull post], [r/VisionPro post]
+- Preferences: 5 -  Clear preferences for specific foods, technologies, and entertainment are expressed throughout their posts. [r/FoodNYC comment], [r/VisionPro posts](various), [r/GenZ post]
+- Comfort: 3 -  Mentions comfort in relation to using Vision Pro. [r/VisionPro post]
+- Environmentalism: 3 -  Shows interest in ESG ratings and sustainable practices. [r/ClimateOffensive post]
+- Financial Security: 4 -  Active participation in finance-related subreddits indicates a strong interest in financial matters. [r/stocks posts](various), [r/options posts](various), [r/wallstreetbets posts](various)
 
 
-**Values:**
+## BEHAVIOUR & HABITS
+- Actively participates in discussions about technology, particularly Apple's Vision Pro. [r/VisionPro posts]
+- Engages in discussions about finance, particularly options trading and market trends. [r/stocks, r/options, r/wallstreetbets posts]
+- Shares opinions on New York City life and culture. [r/newyorkcity post], [r/FoodNYC comment], [r/AskNYC comments]
+- Shows an interest in gaming and gaming-related communities. [r/ManorLords comments], [r/ProjectZomboid post]
+- Frequently seeks advice and shares personal experiences. [Various posts and comments]
+- Engages with subreddits related to various hobbies and interests, including plants, and anime (One Piece)
 
-* **Personal Growth & Self-Improvement:**  Actively seeks to improve their skills and knowledge in various areas. (r/visionosdev, r/Frugal)
-* **Financial Security:**  Demonstrates a strong interest in financial planning and investment strategies. (r/stocks, r/options, r/wallstreetbets, r/Webull)
-* **Technological Advancement:**  Excited about the potential of new technologies to improve lives. (r/VisionPro, r/visionosdev)
-* **Environmental Sustainability:**  Concerned about the environment and seeks ways to contribute to a more sustainable future. (r/ClimateOffensive)
 
-This persona is constructed based on the provided data and may not fully represent Kojied's complete identity.  Further information would be needed to create a more comprehensive profile.
+## FRUSTRATIONS
+- Slow transfer limits in Webull. [r/Webull post]
+- Latency issues using Vision Pro with Mac. [r/VisionPro post]
+- Lack of key apps and software (Xcode, VS Code) for Vision Pro. [r/VisionPro post]
+- Inconsistent referee calls in NBA games. [r/nba post (removed)]
+- Perceived lack of late-game content in Manor Lords. [r/ManorLords comment]
+- The changing vibe in his favorite NYC bar. [r/newyorkcity post]
+
+
+## GOALS & NEEDS
+- To learn more about spatial computing development and VisionOS. [r/visionosdev post]
+- To find effective strategies for options trading and financial investments. [r/stocks, r/options, r/wallstreetbets posts]
+- To develop an app to track user gratification from purchases. [r/Frugal post]
+- To find solutions for issues he is experiencing with various technologies and services. [r/Webull post], [r/VisionPro posts]
+- To connect with like-minded individuals who share his interests. [Various subreddits]
+
+---

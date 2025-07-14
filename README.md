@@ -9,6 +9,24 @@ This project scrapes a Reddit user's posts and comments, then uses Google's Gemi
 - Cites Reddit posts and comments for each persona trait
 - Saves the persona as a text file in the `personas` directory
 
+## Project Structure
+
+```
+reddit_persona_scraper/
+│
+├── src/
+│   ├── main.py                # Entry point for running the scraper
+│   ├── scraper.py             # Reddit scraping logic
+│   ├── persona_generator.py   # Persona generation using Gemini LLM
+│   ├── utils.py               # Utility functions (e.g., URL parsing)
+│   ├── config.py              # Loads environment variables
+│   └── __pycache__/           # Python cache files
+├── personas/                  # Output folder for generated personas
+├── requirements.txt           # Python dependencies
+├── .env.example               # Example environment file
+└── README.md                  # Project documentation file
+```
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
@@ -56,10 +74,10 @@ Replace the placeholders with your actual credentials.
 
 ## Usage
 
-1. **Run the script:**
+1. **Run the script from the `src` directory:**
 
    ```sh
-   python reddit_persona_scraper.py
+   python src/main.py
    ```
 
 2. **When prompted, enter the Reddit user's profile URL:**

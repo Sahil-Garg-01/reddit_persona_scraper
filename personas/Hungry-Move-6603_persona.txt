@@ -6,55 +6,57 @@ User Persona for Hungry-Move-6603
 
 ## BASIC INFO
 - Name (Reddit username): Hungry-Move-6603
-- Estimated Age: 25-35 (Based on work experience and online behaviour)
-- Occupation: Business professional (Relocated to Lucknow for business)
-- Relationship Status: Uninferable
-- Location: Primarily Lucknow, Uttar Pradesh, India; previously Delhi.
-- Archetype: The Observer (Observant and analytical of his surroundings)
+- Estimated Age: 25-35 (Based on work experience and online behavior)
+- Occupation: Business professional (Relocated to Lucknow for business purposes)
+- Relationship Status: Unknown
+- Location: Currently Lucknow, Uttar Pradesh, India; Previously Delhi, India
+- Archetype: The Observer (Observes and comments on social phenomena)
 - User Tier: Intermediate
+
 
 ## PERSONALITY (scale 1–5, with short justification and post URL for each)
 
-- Introvert ↔ Extrovert: 3 (Participates in discussions but mostly observes and comments)
-- Intuition ↔ Sensing: 4 (Focuses on concrete observations and experiences in his environment. e.g., sticker prevalence on cars in Lucknow)
-- Feeling ↔ Thinking: 3 (Balances emotional reactions (frustration) with logical observations and analysis)
-- Perceiving ↔ Judging: 4 (Prefers observation and gathering information before jumping to conclusions)
+- Introvert ↔ Extrovert: 3 (Participates in discussions but doesn't initiate many threads)
+- Intuition ↔ Sensing: 4 (Focuses on observable details like car stickers and food quality)
+- Feeling ↔ Thinking: 3 (Expresses frustration and opinions, but also seeks practical solutions like healthy meals)
+- Perceiving ↔ Judging: 2 (Seems to prefer structure and plans, as seen in requests for structured activities and healthy meal plans)
+
 
 ## MOTIVATIONS (scale 1–5, with citation)
 
-- Convenience: 4 (Seeks quick and easy meal options - r/lucknow comment about power meals)
-- Wellness: 3 (Concerned about healthy eating, avoids palm oil - r/lucknow comment about power meals)
-- Speed: 4 (Looks for quick meal options - r/lucknow comment about a quick, healthy menu)
-- Preferences: 3 (Expresses dislike for certain types of vehicles and driving behaviours)
-- Comfort: 2 (Relatively low, as indicated by frustrations with his surroundings)
-- Environmentalism: 1 (No direct evidence)
-- Financial Security: 2 (Indirectly implied by concern about meal costs)
+- Convenience: 4 (Seeks "easy to cook/process" meals) - [r/lucknow comment: A menu easy to cook/process - healthy and quick.]
+- Wellness: 4 (Focuses on healthy eating options due to concerns about food quality) - [r/lucknow comment: Same problem. I started eating power meals at home atleast saves me from crap quality. I even purchased a 250 per meal tiffin and it had palm oil!!!]
+- Speed: 3 (Seeks productive weekend activities) - [r/lucknow post: Productive weekend activities in LKO?]
+- Preferences: 3 (Expresses dislike for certain aspects of Lucknow and Delhi) - [r/lucknow comment: Haha Delhi is hateable too but mostly those are HR or UP14 NCR vehicle. Plus the percentage of vehicles of such sort is low.]
+- Comfort: 2 (Not a primary motivation based on available data)
+- Environmentalism: 1 (Not evident in the data)
+- Financial Security: 2 (Relocated for business, implying financial goals)
+
 
 ## BEHAVIOUR & HABITS
 
-- Frequently posts and comments about Lucknow, expressing observations and seeking recommendations (r/lucknow)
-- Shares experiences with bribery and corruption in Nagpur (r/nagpur)
-- Expresses frustration with specific aspects of life in Lucknow (r/lucknow)
-- Seeks advice and opinions from online communities (r/amiugly, r/indiasocial)
-- Actively participates in discussions related to Indian social and political issues (r/IndiaUnfilter)
-- Seeks practical solutions for daily life issues (r/lucknow - quick meal suggestions)
+- Frequently comments on observations about Lucknow and its culture. [r/lucknow posts & comments]
+- Seeks recommendations for productive weekend activities. [r/lucknow post: Productive weekend activities in LKO?]
+- Expresses concerns about food quality and seeks healthier alternatives. [r/lucknow comments regarding meals]
+- Observes and comments on social phenomena, such as the prevalence of car stickers in Lucknow. [r/lucknow posts & comments]
+- Shares experiences with corruption and bribery. [r/nagpur comments]
+- Seeks opinions on their own attractiveness. [r/amiugly comment]
+
 
 ## FRUSTRATIONS
 
-- Prevalence of stickers on cars in Lucknow (r/lucknow)
-- Corruption and bribery in Indian society (r/nagpur)
-- Poor food quality in Lucknow (r/lucknow)
-- Difficulty finding healthy and convenient food options (r/lucknow)
-- His perceived below-average appearance (r/amiugly)
--  Aggressive driving habits and vehicle types in Delhi and surrounding areas (r/lucknow)
+- The prevalence of certain car stickers in Lucknow. [r/lucknow posts and comments]
+- Poor quality and unhealthy food options. [r/lucknow comment: Same problem. I started eating power meals at home atleast saves me from crap quality. I even purchased a 250 per meal tiffin and it had palm oil!!!]
+- Experiences with bribery and corruption. [r/nagpur comments]
+- Perceived lack of personal safety and justice.  [r/indiasocial comment]
+
 
 ## GOALS & NEEDS
 
-- To find convenient and healthy meal options in Lucknow (r/lucknow)
-- To understand and adapt to the cultural norms and practices in Lucknow (r/lucknow)
-- To improve his self-perception and confidence (r/amiugly)
-- To voice his concerns and frustrations about societal issues (r/nagpur, r/indiasocial, r/IndiaUnfilter, r/lucknow)
-- To connect with others who share similar experiences (Multiple subreddits)
+- Finding healthy and convenient meal options. [r/lucknow comments about food]
+- Identifying productive weekend activities in Lucknow. [r/lucknow post about weekend activities]
+- Understanding the social dynamics and culture of Lucknow. [r/lucknow posts and comments]
+- Seeking solutions to address frustrations with corruption and poor food quality. [r/nagpur, r/lucknow comments]
 
- 
+
 ---
